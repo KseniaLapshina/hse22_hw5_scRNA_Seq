@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1bs0h8NfNTSsvFczVYo_5B_ylcNUf1vhf?usp=sh
 ## Полученные визуализации UMAP и PCA.
 ![image](https://user-images.githubusercontent.com/114621114/206863390-343ae7e7-2367-4b46-9114-78a1d0af78eb.png)
 ![image](https://user-images.githubusercontent.com/114621114/206863398-3cf8d023-e318-4002-a699-65547ccf8319.png)
+
+## Анализ результатов
+PCA плохо справляется в выделением кластеров, UMAP лучше справляется с этой задачей. PCA лучше всего отделяет кластер mTEC-I, UMAP - MTEC-IV.
