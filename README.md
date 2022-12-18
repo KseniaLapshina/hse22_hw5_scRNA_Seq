@@ -20,3 +20,10 @@ https://colab.research.google.com/drive/1bs0h8NfNTSsvFczVYo_5B_ylcNUf1vhf?usp=sh
 
 ## Анализ результатов
 PCA плохо справляется в выделением кластеров, UMAP лучше справляется с этой задачей. PCA лучше всего отделяет кластер mTEC-I, UMAP - MTEC-IV.
+
+## Результаты выполнения бонусного задания
+Маркерные гены из основной части задания
+![image](https://user-images.githubusercontent.com/114621114/208314442-5df9b987-b1a8-4352-b517-2b0834738aad.png)
+
+100 наиболее высоко-экспрессированных генов как в bulk, так и scRNA
+![image](https://user-images.githubusercontent.com/114621114/208314481-2d08baf8-74b9-485e-92a3-a6c3f632aea3.png)
